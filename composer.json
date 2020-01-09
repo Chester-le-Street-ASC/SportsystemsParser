@@ -1,6 +1,6 @@
 {
   "name": "clsasc/sportsystems-parser",
-  "description": "A class based Standard Data Interchange Format parser for swimming data files.",
+  "description": "A class based parser for various SPORTSYSTEMS Meet Manager and SPORTSYSTEMS Entry Manager files.",
   "license": "Apache-2.0",
   "homepage": "https://github.com/Chester-le-Street-ASC/SportsystemsParser",
   "require": {
